@@ -1,4 +1,5 @@
 import pyodbc
+import pytest
 
 
 class DBConnection:
